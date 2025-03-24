@@ -51,5 +51,5 @@ Este repositório documenta o aprendizado e a execução de comandos no **Git** 
    - Criação de Pull Requests no GitHub para comparar e integrar mudanças entre branches.
    
 Acesse minha página no GitHub:  
-[Minha Página GitHub](https://AlbinoTamiris.github.io/tarefaGit/)
+[Minha Página GitHub](https://github.com/AlbinoTamiris)
 
